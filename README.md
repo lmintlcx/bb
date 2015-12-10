@@ -1,2 +1,2 @@
 
-Move to https://github.com/lmintlcx/hexoblog/wiki/hexo
+Move to https://github.com/lmintlcx/hexoblog/wiki/hexoblog
