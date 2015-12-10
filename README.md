@@ -4,7 +4,7 @@
 
 BlogBook，简称BB，独立博客聚合导航。
 
-无论是Hexo、Wordpress还是Octopress、Jekyll、Pelican，我们都欢迎那些仍旧热爱写作和心得分享的独立博客的博主们遵照相关格式编辑项目wiki链接博客网址，打破“孤岛效应”，加强彼此交流和成长。
+无论是Hexo、Wordpress还是Octopress、Jekyll、Pelican，我们都欢迎那些仍旧热爱写作和心得分享的独立博客的博主们遵照相关格式编辑本项目[wiki](https://github.com/lmintlcx/bb/wiki/BlogBook-Home)，链接博客网址，打破“孤岛效应”，加强彼此交流和成长。
 
 ## Wiki Link:
 
@@ -15,6 +15,7 @@ https://github.com/lmintlcx/bb/wiki/BlogBook-Home
 
 1. 请不要恶意编辑wiki，请做一个有节操的Bloger。
 2. Github wiki编辑支持Markdown语法，嫌麻烦的童鞋请善用Ctrl+C&V替换大法。
+3. 独立博客清单排序目前以添加时间先后为准。
 
 ## Related：
 
